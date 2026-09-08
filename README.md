@@ -1,3 +1,9 @@
+#Small addition from Cygnus
+
+I will add to this fork every new sfx that I'll find while making mods for myself.
+
+I manually searched for beasthood aura effect by unpacking "frpg_sfxbnd_commoneffects.ffxbnd.dcx", deleting all .fxr files from "effects" folder and then continuously adding half of them back and running the game, to see when the beasthood cloud would reappear. I added its id to this list - it was under n/a before. So that means a lot of unlisted effects simply have specific conditions to appear in-game and probably didn't want to show on their own in whatever program the authors were using. 
+
 # BloodBorne-SFX-Bible-from-Xenobyte-and-Gazu---all-FXR-files-catalogued
 All the BloodBorne .FXR SFX files catalogued as to what they do in terms of actual graphics. Useful for modding like for instance, I combined an explosion one and a rock debris one this week for making a dynamite SFX using the ONESHOTSFX command when it detected a flag in EVEMD. Great for making new SFX and sprucing up any mod or project.
 
@@ -109,7 +115,7 @@ f000000835 n/a
 f000000845 n/a  
 f000000850 n/a  
 f000000851 n/a  
-f000000854 n/a  
+f000000854 beasthood brown-gray aura 
 f000000855 n/a  
 f000000865 n/a  
 f000000866 n/a  
