@@ -195,7 +195,7 @@ f000007007 red/black blood gushing all over and reducing till gone, 5 sec durati
 f000007100 red/black blood gushing all over and reducing till gone, 5 sec duration  
 f000007101 white spot on hit, circular, but stretched out horizontally  
 f000007102 white circular flash on hit  
-f000007103 small yellow glow , duration 1 sec, fade out  
+f000007103 small yellow glow , duration 1 sec, fade out - beast claw transformation (tested with beast's embrace)
 f000007104 n/a  
 f000007105 small short yellow flash  
 f000007106 lightning flash, centered on ground  
