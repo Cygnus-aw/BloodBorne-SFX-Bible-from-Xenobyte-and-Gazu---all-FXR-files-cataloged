@@ -1063,9 +1063,9 @@ f000203050 black cloud, small air ripple, debris, explosion
 f000203051 bright red flash, ghost sound  
 f000204001 white-blue dot appears and fades out  
 f000204050 n/a  
-f000250030 green light, fade out, 2 seconds, moonlight sword l2,r2 first effect  
-f000250035 green light with green shine in a line, fade out 2 seconds  
-f000250040 small red hot item with heat wave distortion - boom hammer transform sfx  
+f000250030 green light, fade out, 2 seconds, moonlight sword l2,r2 first effect         
+f000250035 green light with green shine in a line, fade out 2 seconds                   | MidstSfxId  250035   | Used in vfx:  350   "Moonlight Sword Mode B"
+f000250040 small red hot item with heat wave distortion - boom hammer transform sfx      
 f000250041 orange light, fade out, 2 seconds  
 f000250042 small orange flickery light and then debris explosion, 2 seconds  
 f000250050 small orange flickery light and then debris explosion 5 seconds  
